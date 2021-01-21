@@ -1,2 +1,1 @@
-# MyProfile
-This is This is an update for the master branch.
+# This is an update for the master branch.
